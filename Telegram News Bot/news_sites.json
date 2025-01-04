@@ -1,0 +1,34 @@
+[
+    {
+        "url": "https://apnews.com/",
+        "selector": "h1, h2, h3"
+    },
+    {
+        "url": "https://nypost.com/",
+        "selector": ".headline"
+    },
+    {
+        "url": "https://news.yahoo.com/",
+        "selector": "h3"
+    },
+    {
+        "url": "https://abcnews.go.com/",
+        "selector": ".AnchorLink"
+    },
+    {
+        "url": "https://www.thedailybeast.com/",
+        "selector": ".headline"
+    },
+    {
+        "url": "https://www.npr.org/",
+        "selector": "h3.title"
+    },
+    {
+        "url": "https://www.financialtimes.com/",
+        "selector": ".headline"
+    },
+    {
+        "url": "https://www.newsday.com/",
+        "selector": ".headline"
+    }
+]
